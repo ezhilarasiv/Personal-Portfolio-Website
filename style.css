@@ -1,0 +1,64 @@
+
+
+.name{
+    display: flex;
+    margin-left: 30px;
+}
+h1{
+    font-size:50px ;
+    margin-top: 8px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 500px;
+    gap: 40px;
+    padding: 2px;
+}
+ul li a{
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+img{
+    height: 360px;
+    border-radius: 50%;
+    position: relative;
+    left: 290px;
+    top: 60px;
+}
+.home{
+    display: flex;
+}
+.para{
+    margin-left: 440px;
+    margin-top: 90px;
+}
+#hello{
+    margin-left: 110px;
+    font-size: 19px;
+}
+h2{
+    font-size: 45px;
+    margin-left:60px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#fullstack{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(82, 82, 76);
+    
+}
+button{
+    border-radius: 30px;
+    padding: 10px;
+    color: black;
+    margin-left: 40px;
+    margin-top: 15px;
+}
+button:hover {
+    background-color: burlywood ; 
+    cursor: pointer; 
+    transform: scale(1.09); 
+}
